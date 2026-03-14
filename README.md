@@ -6,7 +6,7 @@ An **interactive Sales & Profit Dashboard built using Microsoft Excel** that hel
 
 ## 📷 Dashboard Preview
 
-![Sales & Profit Dashboard](dashboard.png)
+![Sales-Dashboard-Excel-](dashboard.png)
 
 ---
 
@@ -118,6 +118,6 @@ If you like this project, please **give it a star ⭐ on GitHub** to support the
 
 ## 👨‍💻 Author
 
-Created by **Your Name**
+Created by **Dipsh Agrawal**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Dipeshagrwal
