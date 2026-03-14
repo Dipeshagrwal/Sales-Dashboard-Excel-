@@ -6,7 +6,7 @@ An **interactive Sales & Profit Dashboard built using Microsoft Excel** that hel
 
 ## 📷 Dashboard Preview
 
-![Sales-Dashboard-Excel-](dashboard.png)
+![Sales-Dashboard-Excel-](Dashboard.png)
 
 ---
 
